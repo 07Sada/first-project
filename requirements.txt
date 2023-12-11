@@ -4,3 +4,6 @@
 
 # data version control
 dvc
+
+# for downloading dataset from kaggle
+opendatasets 
